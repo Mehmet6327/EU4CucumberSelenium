@@ -1,2 +1,3 @@
-# Project exclude paths
+.idea/
+EU4CucumberSelenium.iml
 /target/
