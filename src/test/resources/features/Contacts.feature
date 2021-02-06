@@ -41,6 +41,6 @@ Feature: Contacts page
     When the user logs in using following credentials
       | username  | user10      |
       | password  | UserUser123 |
-      | firstname | Brenden     |
-      | lastname  | Schneider   |
+      | firstname | Toney     |
+      | lastname  | Hegmann   |
     Then the user should be able to login
