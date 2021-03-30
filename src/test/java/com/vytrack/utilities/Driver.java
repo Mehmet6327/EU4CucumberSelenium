@@ -76,6 +76,7 @@ public class Driver {
                     } catch (MalformedURLException e) {
                         e.printStackTrace();
                     }
+                    break;
                 case"mobile_chrome":
                     DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
 
